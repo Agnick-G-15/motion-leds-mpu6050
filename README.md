@@ -18,6 +18,7 @@ This project demonstrates how an **MPU6050 accelerometer + gyroscope** sensor ca
   * 🟡 **Yellow** → Forward/Backward tilt (Y-axis)
 * Real-time **serial monitor output** for debugging.
 
+![image alt](images/display.jpeg)
 ---
 
 ## 🛠️ Components Used
@@ -34,8 +35,7 @@ This project demonstrates how an **MPU6050 accelerometer + gyroscope** sensor ca
 
 📷 *Simple schematic for quick reference:*
 
-![images](circuit.png)
-*(Replace with your uploaded schematic image in repo)*
+![image alt](images/mpu-circuit.jpeg)
 
 * **MPU6050 → Arduino Nano**
 
@@ -67,7 +67,7 @@ if (ay > 5000 || ay < -5000) {
 
 ## 📸 Demo
 
-[Linked In](link)
+[Linked In](https://www.linkedin.com/posts/agnickghosh_arduino-mpu6050-iot-activity-7363185609491828737-e5yU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFjMA8MBY00uITVavSa9bj04Bi51aavZIos)
 
 ---
 
@@ -94,6 +94,4 @@ if (ay > 5000 || ay < -5000) {
 `Arduino` `MPU6050` `I2C` `MotionSensor` `EmbeddedSystems` `IoT` `HardwareProjects`
 
 ---
-
-Would you like me to also make a **catchy GitHub repo name + short description** (like we did for your RTC project), so it looks polished when you publish?
 
